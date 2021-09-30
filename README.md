@@ -3,4 +3,4 @@
 ### Hello, Code 👋
 
 - :orange_book: Focusing on Go & Cpp
-- :ram: Interested in Datbases And Runtime
+- :ram: Interested in Database And Runtime
