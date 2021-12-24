@@ -2,5 +2,5 @@
 
 ### Hello, Code 👋
 
-- :orange_book: Focusing on Go & Cpp
+- :orange_book: Focusing on Go
 - :ram: Interested in Database And Runtime
