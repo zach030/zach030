@@ -2,5 +2,5 @@
 
 ### Hello, Code 👋
 
-- :orange_book: Focusing on Go, Solidity
-- :ram: Interested in Database And Crypto
+- :orange_book: Focusing on Go, Solidity, Rust
+- :ram: Crypto
